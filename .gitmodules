@@ -1,0 +1,3 @@
+[submodule "packages/jsbook"]
+	path = packages/jsbook
+	url = https://github.com/nishant2106/jsbook.git

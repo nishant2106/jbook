@@ -4,4 +4,4 @@ packages/cli/node_modules
 packages/cli/dist
 .DS_Store
 lerna-debug.log
-packages/.DS_Store
+.DS_Store

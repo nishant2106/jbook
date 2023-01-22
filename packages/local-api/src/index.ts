@@ -22,7 +22,9 @@ export const serve = (
       })
     );
   } else {
-    const packagePath = require.resolve("jsbook/build/index.html");
+    const packagePath = require.resolve(
+      "@nishant-jsbook/jsbook/build/index.html"
+    );
     app.use(express.static(path.dirname(packagePath)));
   }
 

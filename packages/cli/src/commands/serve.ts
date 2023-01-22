@@ -1,6 +1,6 @@
 import path from "path";
 import { Command } from "commander";
-import { serve } from "local-api";
+import { serve } from "@nishant-jsbook/local-api";
 
 // square brackets([]) denote that the value is optional
 // angled brackets(<>) denote that the value is required

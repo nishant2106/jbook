@@ -108,6 +108,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Screenshots
 
-![JSBook Editor](https://via.placeholder.com/800x400.png?text=JSBook+Editor)
+![JSBook Editor](./image.png)
 
 *Example of the interactive editor and live preview.*
